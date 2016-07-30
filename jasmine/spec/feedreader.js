@@ -79,10 +79,8 @@ $(function() {
          * the use of Jasmine's beforeEach and asynchronous done() function.
          */
         beforeEach(function(done) {
-            loadFeed(0,function() {
-                done();
+            loadFeed(0, done);
             });
-        });
 
         it('loadFeed function is called and completes its work', function() {
             expect($('.feed .entry').length).toBeGreaterThan('');
@@ -100,7 +98,7 @@ $(function() {
         /* Loading a feed and storing the data*/
          beforeEach(function(done) {
             loadFeed(0, function() {
-                feed0 = $('.feed').children().text();
+                feed_0 = $('.feed').children().text();
                 done();
             });
         });
