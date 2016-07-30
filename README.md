@@ -27,3 +27,9 @@ This project is part of the Front End Web Developer Nanodegree at Udacity. Proje
 * [Testing DOM Events Using jQuery and Jasmine 2.0](http://www.htmlgoodies.com/beyond/javascript/js-ref/testing-dom-events-using-jquery-and-jasmine-2.0.html)
 * [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549?_ga=1.43628450.669191639.1441099840)
 * [Using Jasmine 2.0's New done() Function to Test Asynchronous Processes](http://www.htmlgoodies.com/beyond/javascript/stips/using-jasmine-2.0s-new-done-function-to-test-asynchronous-processes.html)
+
+## References
+Following Udacity Forum discussion have been of great help:
+* [Are my tests really testing what they’re supposed to?](https://discussions.udacity.com/t/are-my-tests-really-testing-what-theyre-supposed-to/47524)
+* [Async tests – why the second done() call?](https://discussions.udacity.com/t/async-tests-why-the-second-done-call/40751)
+* [New Feed Changes Content Test](https://discussions.udacity.com/t/new-feed-changes-content-test/47601/1)
